@@ -1,0 +1,18 @@
+body
+{
+	background-color:#99FFCC;
+}
+div.distance
+{
+	background-color:#FF0000;
+}
+div.location
+{
+	background-color:#0000FF;
+}
+div.map
+{
+	height:400px;
+	width:400px;
+	border-style: solid;
+}
